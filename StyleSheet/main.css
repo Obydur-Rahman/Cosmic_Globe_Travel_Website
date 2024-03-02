@@ -158,3 +158,52 @@ form{
   background: rgba(255, 255, 255, 0.30);
   padding: 1rem;
 }
+
+/* Our Popular Section style */
+
+.Our-Popular-section{
+    display: flex;
+    gap: 53px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 100px;
+}
+.popular-contain{
+    width: 469.5px;
+}
+.popular-section-title{
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;    
+}
+.popular-section-description p{
+    color: var(--secondary-color);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;  
+    margin-top: 24px;
+    margin-bottom: 24px;  
+}
+.popular-section-description ul{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.popular-section-description ul li{
+    color: var(--secondary-color);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;      
+}
+.Read-btn{
+    font-size: 20px;
+    font-weight: 800;    
+}
+
+.Our-Popular-section img{
+    width: 469.5px;
+    height: 550px;
+    border-radius: 16px;
+    background-position: 60%;     
+}

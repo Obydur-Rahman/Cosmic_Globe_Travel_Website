@@ -2,6 +2,10 @@
 /* Mobile Divice */
 @media screen and (max-width:576px) {
 
+
+ /* Header Section Responsive */
+
+
     .nav-bar{
         flex-direction: column;
         gap: 30px;
@@ -50,5 +54,49 @@
         width: 255px;
         height: 52px;
       }
+      /* ---------------------------------------------------------- */
+
+
+      /* Our Popular Section Responsive */
+      .Our-Popular-section{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 24px;
+      }
+      .popular-contain{
+        width: 335px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .popular-section-title{
+        font-size: 20px;   
+    }
+    .popular-section-description p{
+        font-size: 14px; 
+        margin-top: 16px;
+        margin-bottom: 16px;    
+    }
+    .popular-section-description ul{
+        gap: 12px;
+    }
+    .popular-section-description ul li{
+        font-size: 14px; 
+        margin-top: 16px;
+        margin-bottom: 16px;      
+    }
+    
+    .Our-Popular-section img{
+        width: 335px;
+        height: 342px;
+        border-radius: 16px;    
+    }
+.Find-btn{
+    width: 174px;
+    height: 52px;    
+    font-size: 20px;
+    font-weight: 800;  
+}
+
     
 }
