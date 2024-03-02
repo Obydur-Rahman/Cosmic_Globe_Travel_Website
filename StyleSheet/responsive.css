@@ -1,0 +1,54 @@
+
+/* Mobile Divice */
+@media screen and (max-width:576px) {
+
+    .nav-bar{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .nav-bar ul{
+        gap:10px;
+    }
+
+    .Banner{
+        width: 335px;
+        height: 483px;
+        margin: 0% auto;
+        margin-top: 17.8px;
+        margin-bottom: 24px;
+    }
+
+     .banner-contain{
+        width: 304px;
+    } 
+
+    .banner-title{
+        font-size: 22px;
+
+    }
+
+    .banner-description{
+        color: #FFF;
+        font-size: 14px;
+        margin-top: 8px;
+        margin-bottom:32px;
+    }
+    
+
+    form{    
+        flex-direction: column;        
+        width: 287px;
+        height: auto;
+        gap: 16px;
+        padding: 16px;
+        
+      }
+
+      .input-btn,
+      .secondary-btn,
+      .Find-btn{
+        width: 255px;
+        height: 52px;
+      }
+    
+}
