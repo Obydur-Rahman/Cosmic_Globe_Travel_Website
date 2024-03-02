@@ -124,6 +124,21 @@
 
 /* -------------------------------------------------------------------------------------- */
 
+
+/* Why Choose Us Section Responsive */
+.Why-Choose{
+    margin-bottom: 24px;
+}
+.Why-Choose-content{
+    width: 309px;
+}
+.Choose-cards{
+    width: 335px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+/* __________________________________________________________________________________________ */
     
 }
 
