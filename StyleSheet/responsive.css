@@ -176,6 +176,65 @@
         margin-top: 16px;
         margin-bottom: 16px;    
 }
+
+/* Newsletter-container Responsive */
+.Newsletter-container{
+    width: 100%;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+}
+.Newsletter-contain{
+    width: 335px;
+    height: 353px;
+    padding: 24px;
+
+
+}
+.Newsletter-contain-title{ 
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 8px;
+    
+}
+.news-hr{
+ 
+    margin-top: 16px;
+    
+    
+}
+#input {
+    font-size: 16px;
+    font-weight: 400;
+    width: 288px;
+    height: 52px;
+}
+#input-sub{
+    width: 288px;
+    height: 52px;
+    font-size: 20px;
+    font-weight: 800; 
+
+}
+.Newsletter-image{
+    width: 335px;
+    height: 300px;   
+}
+.Save-up{
+    width: 214.023px;
+    height: 79.268px;
+    transform: translate(-5px, -30px) rotate(-19.628deg);
+
+}
+.Save-up p{
+    font-size: 15.854px;
+    font-weight: 400; 
+}
+
+.Save-up h3{
+    font-size: 21.138px;
+    font-weight: 800;
+}
     
 }
 
