@@ -214,7 +214,7 @@ form{
 
 
 
-/* Our Popular Section style */
+/* destination Style */
  .destination-content{
     width: 643px;
     margin: 0% auto;
@@ -395,4 +395,51 @@ form{
 
 
 
+/*  Deals & Discounts Section Style */
 
+
+
+
+
+
+
+/* A Simple Perfect Place To Get Lost section Style */
+
+.Perfect-Place-section{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 100px;
+
+}
+.Perfect-Place{
+    width:532px; 
+}
+
+.Perfect-Place-description p  {
+    color: #5A5A5D;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+ 
+.Perfect-Place-description li{
+    color: #131318;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-bottom: 16px;
+
+}
+.Perfect-Place-description ul{
+    margin-bottom: 32px;
+}
+.Perfect-Place-Section-video iframe{
+    width: 610px;
+    height: 450px;
+    border-radius: 16px;    
+}

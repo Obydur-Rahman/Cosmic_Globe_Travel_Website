@@ -139,6 +139,43 @@
     gap: 16px;
 }
 /* __________________________________________________________________________________________ */
+
+
+
+/*  Deals & Discounts Section Responsive */
+
+/* _____________________________________________________________________________________________- */
+
+
+
+
+
+/* A Simple Perfect Place To Get Lost section Responsive */
+.Perfect-Place-section{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+
+}
+.Perfect-Place{
+    width: 335px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:16px 20px 16px 20px;
+}
+.Perfect-Place-Section-video iframe{
+    width: 335px;
+    height: 200px;
+    border-radius: 16px;    
+}
+.Perfect-Place-description p{
+        font-size: 14px; 
+        margin-top: 16px;
+        margin-bottom: 16px;    
+}
     
 }
 
