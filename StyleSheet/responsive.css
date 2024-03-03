@@ -176,6 +176,9 @@
         margin-top: 16px;
         margin-bottom: 16px;    
 }
+/* ________________________________________________________________- */
+
+
 
 /* Newsletter-container Responsive */
 .Newsletter-container{
@@ -235,6 +238,35 @@
     font-size: 21.138px;
     font-weight: 800;
 }
+/* ------------------------------------------------------------- */
+
+
+
+/* footer Responsive */
+
+
+footer {
+    width: 100%;
+    margin-top: 24px;
+
+}
+.logo-title p{
+    font-size: 21.543px;
+}
+.logo-title img{
+    width: 28.724px;
+    height: 33.516px;
+}
+.footer-section i {
+    
+    margin: 0px 10px;
+}
+.footer-section hr {
+    width: 335px;
+    margin-top: 24px;
+}
+/* _____________________________________________________________________- */
+
     
 }
 
